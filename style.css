@@ -2,7 +2,7 @@
     --green: #5ed68a;
     --red: #1ea6c8;
     --background: #fafafa;
-    --gradient-1: #343e63;
+    --gradient-1: #494923;
     --gradient-2: #2a3352;
 }
 
@@ -27,7 +27,7 @@ main {
     min-height: height 40vh;
     border-radius: 2rem 2rem 2rem 2rem;
     padding: 4rem;
-    color: #1f2933;
+    color: #2a4561;
 }
 
 h2 {
